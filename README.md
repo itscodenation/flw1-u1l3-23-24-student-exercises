@@ -5,9 +5,9 @@
 - Work with basic data types and operators.
 
 ## Table of Contents
-1. [Documentation](documentation)
-2. [JavaScript & Variables](javascript-variables)
-3. [Data Types & Operators](data-types-operators)
+1. [Documentation](#documentation)
+2. [JavaScript & Variables](#javascript-variables)
+3. [Data Types & Operators](#data-types-operators)
 
 
 ## Documentation
