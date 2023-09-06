@@ -6,12 +6,9 @@
 
 ## Table of Contents
 1. [Documentation](documentation)
-3. [JavaScript & Variables](javascript-variables)
-4. [Data Types & Operators](data-types-operators)
-5. **Code Along (10 min)**
-6. **Break (10 min)**
-7. **Code Solo (40 min)**
-8. **Closing (15 min)**
+2. [JavaScript & Variables](javascript-variables)
+3. [Data Types & Operators](data-types-operators)
+
 
 ## Documentation
 - **Documentation** is crucial for:
@@ -23,7 +20,7 @@
 - Remember: Googling is part of a developer's job! Platforms like **W3Schools** and **egghead.io** can be invaluable.
 
 ## JavaScript & Variables
-![JavaScript Image]([https://miro.medium.com/max/1024/1*tsqlgfBBb32ZLx1Y6bwzKA.jpeg)
+![JavaScript Image](https://miro.medium.com/v2/resize:fit:1200/1*LyZcwuLWv2FArOumCxobpA.png)
 
 - **JavaScript** enables dynamic behaviors on a webpage.
 - **Variable** is a container that holds data. 
