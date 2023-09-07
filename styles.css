@@ -5,9 +5,8 @@
     - Set background color to Hot Pink (#FF69B4)
     - Make the text color white
     - Add some padding for a better look
-    - Set the font size to 16px
-    - Make the corners rounded 
-    - Set the font size
+    - Change the font size to 16px
+    - Extra: Make the corners rounded
 */
 button {
     font-size: 5px;
