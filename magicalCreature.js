@@ -12,7 +12,8 @@
 
 
 
-// 4. The magical zoo has an age restriction! Declare a variable named 'visitorAge' and assign it a random age between 5 and 60.
+// 4. The magical zoo has an age restriction! Declare a variable named 'visitorAge' and assign it a random age between 1 and 60.
+// Hint: Use Math.floor() to round a number up.
 // Hint: Use Math.random() for generating random numbers.
 
 
