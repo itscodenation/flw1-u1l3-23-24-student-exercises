@@ -20,8 +20,7 @@ button {
     - Set the font size to 18px
 */
 button:hover {
-    background-color: #8B008B;
-    font-size: 18px;
+    
 }
 
 button:active {
